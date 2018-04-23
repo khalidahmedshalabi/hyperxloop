@@ -1,0 +1,14 @@
+{
+	"name": "hyperxloop",
+	"mailFrom": "info@localhost",
+	"hostnames": "localhost,localhost",
+	"db": "hyperxloop",
+	"dbuser": "root",
+	"dbpassword": "",
+	"dbhost": "localhost",
+	"smtp": "smtpmailer.localhost",
+	"version": "V0.1",
+	"defaultlanguage": "en",
+	"datapath": "/usr/local/data/hyperxloop",
+	"port": 3001
+}

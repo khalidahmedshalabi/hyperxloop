@@ -1,0 +1,10 @@
+{
+	"Help": "Help",
+	"Login": "Login",
+	"Before you can access this requested page you first need to login.": "Before you can access this requested page you first need to login.",
+	"Username": "Username",
+	"Password": "Password",
+	"Log on": "Log on",
+	"login-failed": "login-failed",
+	"Wrong username of password, please try again.": "Wrong username of password, please try again."
+}
